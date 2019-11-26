@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="avatar_cli_logo.svg"
+   sodipodi:docname="logo_a.svg"
    inkscape:export-filename="/home/castarco/Desktop/avatar_cli_logo.png"
    inkscape:export-xdpi="184.54703"
    inkscape:export-ydpi="184.54703">
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.7335238"
-     inkscape:cx="133.79238"
+     inkscape:cx="389.6484"
      inkscape:cy="867.51005"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,7 +133,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1203">
+       id="g871">
       <path
          inkscape:export-ydpi="184.54703"
          inkscape:export-xdpi="184.54703"
@@ -162,27 +162,23 @@
            x="68.791664"
            id="tspan1291"
            sodipodi:role="line">  </tspan></text>
-      <text
+      <g
          id="text837"
-         y="89.302086"
-         x="54.504166"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.26458332"
-           y="89.302086"
-           x="54.504166"
-           id="tspan835"
-           sodipodi:role="line"><tspan
-             id="tspan867"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'">C</tspan><tspan
-             id="tspan843"
-             style="font-size:9.87777805px"> </tspan><tspan
-             id="tspan869"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'">L</tspan><tspan
-             id="tspan839"
-             style="font-size:6.35000038px"> </tspan><tspan
-             id="tspan871"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'">I</tspan></tspan></text>
+         aria-label="C L I">
+        <path
+           id="path855"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"
+           d="m 59.719632,87.507153 q 0.643467,0 1.049867,-0.186267 0.423333,-0.2032 0.643466,-0.524933 0.237067,-0.338667 0.321734,-0.762 0.08467,-0.440267 0.08467,-0.897467 v -0.3048 h 2.2352 v 0.3048 q 0,2.116667 -1.1176,3.268133 -1.100666,1.134534 -3.217333,1.134534 -2.032,0 -3.217333,-1.236134 -1.185333,-1.236133 -1.185333,-3.6068 V 82.05462 q 0,-1.134534 0.3048,-2.032 0.3048,-0.9144 0.880533,-1.524 0.575733,-0.626534 1.388533,-0.948267 0.8128,-0.338666 1.8288,-0.338666 1.049867,0 1.862667,0.304799 0.8128,0.3048 1.354666,0.880534 0.5588,0.575733 0.829733,1.388533 0.287867,0.8128 0.287867,1.8288 v 0.3048 h -2.2352 v -0.3048 q 0,-0.423333 -0.1016,-0.846667 -0.1016,-0.423333 -0.338666,-0.762 -0.237067,-0.338666 -0.643467,-0.541866 -0.4064,-0.220134 -1.016,-0.220134 -0.5588,0 -0.9652,0.220134 -0.4064,0.2032 -0.677333,0.575733 -0.270934,0.3556 -0.4064,0.846667 -0.118534,0.474133 -0.118534,0.999066 v 2.980267 q 0,0.575733 0.118534,1.0668 0.118533,0.474133 0.372533,0.829733 0.254,0.3556 0.6604,0.5588 0.423333,0.186267 1.016,0.186267 z" />
+        <path
+           id="path857"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"
+           d="m 72.283084,77.448753 h 2.235199 v 9.719733 h 5.3848 v 2.1336 h -7.619999 z" />
+        <path
+           id="path859"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"
+           d="m 86.347507,77.448753 h 7.9248 v 2.1336 h -2.8448 v 7.586133 h 2.8448 v 2.1336 h -7.9248 v -2.1336 h 2.8448 v -7.586133 h -2.8448 z" />
+      </g>
     </g>
   </g>
 </svg>

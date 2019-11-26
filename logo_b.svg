@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="avatar_cli_logo_X.svg"
+   sodipodi:docname="logo_b.svg"
    inkscape:export-filename="/home/castarco/Desktop/avatar_cli_logo_X.png"
    inkscape:export-xdpi="369.09406"
    inkscape:export-ydpi="369.09406">
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.32"
-     inkscape:cx="-127.92825"
-     inkscape:cy="815.89728"
+     inkscape:cx="-487.01916"
+     inkscape:cy="694.68516"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -134,7 +134,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -174,27 +174,23 @@
          x="68.791664"
          y="78.71875"
          style="stroke-width:0.26458332">  </tspan></text>
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="C L I"
+       transform="scale(1.0703242,0.93429633)"
        style="font-style:normal;font-weight:normal;font-size:15.104496px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37761244"
-       x="40.855659"
-       y="125.38272"
-       id="text837"
-       transform="scale(1.0703242,0.93429633)"><tspan
-         sodipodi:role="line"
-         id="tspan835"
-         x="40.855659"
-         y="125.38272"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.16719627px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.37761244"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';stroke-width:0.37761244"
-           id="tspan867">C</tspan><tspan
-           style="font-size:14.09753227px;stroke-width:0.37761244"
-           id="tspan843"> </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';stroke-width:0.37761244"
-           id="tspan869">L</tspan><tspan
-           style="font-size:9.06270027px;stroke-width:0.37761244"
-           id="tspan839"> </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';stroke-width:0.37761244"
-           id="tspan871">I</tspan></tspan></text>
+       id="text837">
+      <path
+         d="m 48.299156,122.821 q 0.918353,0 1.498366,-0.26584 0.60418,-0.29001 0.918354,-0.74918 0.33834,-0.48335 0.459176,-1.08753 0.120836,-0.62835 0.120836,-1.28086 v -0.43501 h 3.19007 v 0.43501 q 0,3.0209 -1.595035,4.66427 -1.570868,1.6192 -4.591767,1.6192 -2.900064,0 -4.591767,-1.7642 -1.691704,-1.76421 -1.691704,-5.14762 v -3.77008 q 0,-1.6192 0.435009,-2.90006 0.43501,-1.30503 1.256695,-2.17505 0.821684,-0.89419 1.98171,-1.35336 1.160025,-0.48335 2.610057,-0.48335 1.498366,0 2.658392,0.43501 1.160025,0.43501 1.933375,1.2567 0.797518,0.82168 1.184193,1.98171 0.410842,1.16002 0.410842,2.61005 v 0.43501 h -3.19007 v -0.43501 q 0,-0.60418 -0.145003,-1.20836 -0.145003,-0.60418 -0.483344,-1.08752 -0.338341,-0.48334 -0.918353,-0.77335 -0.580013,-0.31417 -1.450032,-0.31417 -0.797518,0 -1.37753,0.31417 -0.580013,0.29001 -0.966688,0.82168 -0.386675,0.50752 -0.580013,1.20836 -0.16917,0.67669 -0.16917,1.42587 v 4.25343 q 0,0.82168 0.16917,1.52253 0.169171,0.67668 0.531679,1.18419 0.362507,0.50751 0.94252,0.79752 0.60418,0.26584 1.450032,0.26584 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';stroke-width:0.37761244"
+         id="path849" />
+      <path
+         d="m 66.229675,108.46568 h 3.19007 v 13.87197 h 7.685168 v 3.04507 H 66.229675 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';stroke-width:0.37761244"
+         id="path851" />
+      <path
+         d="m 86.302374,108.46568 h 11.310248 v 3.04507 h -4.060089 v 10.8269 h 4.060089 v 3.04507 H 86.302374 v -3.04507 h 4.060089 v -10.8269 h -4.060089 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';stroke-width:0.37761244"
+         id="path853" />
+    </g>
   </g>
 </svg>
